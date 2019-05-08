@@ -5,6 +5,6 @@
 
 3. Run the command "npm install nodemon" in the terminal to install node monitor
 
-4. Finally, run "nodemon app" 
+4. Finally, run "nodemon app" in the terminal
 
 5. Navigate to http://localhost:3030 to access the application.
