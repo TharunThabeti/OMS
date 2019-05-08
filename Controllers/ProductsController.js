@@ -3,7 +3,7 @@ var mongoose = require('mongoose');
 
 
 
-mongoose.connect('mongodb+srv://Tharun:Tharun123@cluster0-csife.mongodb.net/test?retryWrites=true');
+mongoose.connect('mongodb+srv://<user>:<password>@cluster0-csife.mongodb.net/test?retryWrites=true');
 var productScheme = new mongoose.Schema({
    productID: String, 
    productName: String, 
